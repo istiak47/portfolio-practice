@@ -1,6 +1,7 @@
 #intro{
     display: flex;
 }
+
 .pics{
     width: 30%;
     padding-left: 40px;
@@ -16,14 +17,19 @@
     vertical-align: middle;
     
 }
+.text-decoration{
+    text-decoration: none;
+    color: black;
+}
+
 .box{
     border-right: 7px solid;
     border-image: linear-gradient(salmon,tomato) ;
     border-image-slice: 10;
-    width: 60%;
+    width: 70%;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 10px;
     border-radius: 10px;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px rgb(79, 130, 207);
 }

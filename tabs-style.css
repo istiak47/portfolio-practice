@@ -5,8 +5,8 @@
     
 }
 .tabs a{
-    color: lightgrey;
-    background-image: linear-gradient(rgb(94, 87, 75), rgb(45, 46, 35));
+    color: rgb(8, 8, 8);
+    background-image: linear-gradient(rgb(72, 225, 245), rgb(117, 207, 219));
     border-radius: 10px;
     list-style-type: none;
     text-decoration: none;
