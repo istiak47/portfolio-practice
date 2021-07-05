@@ -1,8 +1,29 @@
-.intro{
-    align-content: center;
+#intro{
+    display: flex;
 }
-.intro img{
-    display: inline-flex;
-    width: 24.7%;
-    align-content: center;
+.pics{
+    width: 30%;
+    padding-left: 40px;
+    
+}
+.pics h1{
+    text-align: center;
+}
+.pics text{
+    align-content: center justify;
+}
+.vertical{
+    vertical-align: middle;
+    
+}
+.box{
+    border-right: 7px solid;
+    border-image: linear-gradient(salmon,tomato) ;
+    border-image-slice: 10;
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
 }
