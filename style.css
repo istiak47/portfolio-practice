@@ -1,0 +1,26 @@
+body{ background-image: url(poipoi.png);
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.first-text-color{
+    color: rgb(74, 209, 250);
+    font-size: 40px;
+
+}
+.machine{
+    color: rgb(70, 216, 241);
+}
+.welcome{
+    color: linen;
+    width: 50%;
+    padding-left: 80px;
+
+}
+.welcome img{
+    width: 50%;
+}
+.flexible-container{
+    display: flex;
+    
+}
+

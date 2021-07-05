@@ -1,0 +1,18 @@
+.tabs{
+    text-align: center;
+    background-color: transparent;
+    width: auto;
+    
+}
+.tabs a{
+    color: lightgrey;
+    background-image: linear-gradient(rgb(94, 87, 75), rgb(45, 46, 35));
+    border-radius: 10px;
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px;
+    margin: 10px;
+}
